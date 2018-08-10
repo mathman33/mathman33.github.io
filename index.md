@@ -12,3 +12,4 @@ in [Jekyll](https://jekyllrb.com/)
 on [GitHub Pages](https://pages.github.com/),
 using the [Minima theme](https://github.com/jekyll/minima).
 
+![Kelly and Sam in Paris](images/kelly-sam-paris.png)
